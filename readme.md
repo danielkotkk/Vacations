@@ -14,7 +14,7 @@ And a customer who can see and track his favorite deals.
 # If React not installed
 1. Open CMD or Powershell and run "npm install -g create-react-app" 
 
-Launching instructions:
+# Launching instructions:
 
 1. On MySQL interface click on "Import" tab.
 2. Click on "Choose file" and choose the vacations.sql file that inside the database folder and click "Go". 
