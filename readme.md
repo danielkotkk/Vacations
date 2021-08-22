@@ -1,4 +1,4 @@
-Project created using - ReactJS, NodeJS and MySQL.
+# Project created using - ReactJS, NodeJS and MySQL.
 A vacation project with an admin page that can control the vacations posted on the site (delete, update, add)
 And a customer who can see and track his favorite deals.
 
